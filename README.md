@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YohanBZ
 - 👀 I’m interested in  aprender  
 - 🌱 I’m currently learning  analisar e desenvolver software
-- 📫 How to reach me email Barbozayohan@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/YohanBZ">
