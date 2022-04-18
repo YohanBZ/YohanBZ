@@ -24,9 +24,12 @@
  <a href="https://discord.gg/YohanB_97#4222" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:yoohbaz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yohan-barboza-8b1609150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
   
-  
+  ![Snake animation](https://github.com/YohanBZ/YohanBZ/blob/output/github-contribution-grid-snake.svg)
+    
+      </div>
+   
+    
 <!---
 YohanBZ/YohanBZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
