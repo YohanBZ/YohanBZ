@@ -1,8 +1,8 @@
- ### Hi, I’m @YohanBZ welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png"> 
+ ### Hi, I’m @YohanBZ welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png">  
  >I'm 24 years old and I study software analysis and development. I love arts, music, games and movies.
-
+ 
  >I always seek to be in constant evolution with myself, studying and learning new things.
-
+ 
  >Anything, email me or connect with me on Linkedin:
   <div> 
   <a href="https://www.instagram.com/ybz_97/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -13,10 +13,10 @@
  
  ##
 
-<div align="center">
+<div>
   <a href="https://github.com/YohanBZ">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=YohanBZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanBZ&layout=compact&langs_count=7&theme=radical"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanBZ&layout=compact&langs_count=7&theme=radical"/>
    <img heigth="200" width="150" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
 </div>
  
