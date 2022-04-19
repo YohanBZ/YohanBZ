@@ -1,5 +1,7 @@
+ <img align="right" heigth="200" width="150" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
+ 
  ### Hi, I’m @YohanBZ welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png">  
- I'm 24 years old and I study software analysis and development. I love arts, music, games and movies.
+ >I'm 24 years old and I study software analysis and development. I love arts, music, games and movies.
  
  >I always seek to be in constant evolution with myself, studying and learning new things.
  
@@ -16,10 +18,8 @@
 <div>
   <a href="https://github.com/YohanBZ">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=YohanBZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanBZ&layout=compact&langs_count=7&theme=radical"/>
-   <img align="right" heigth="200" width="150" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanBZ&layout=compact&langs_count=7&theme=radical"/>
 </div>
- 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
