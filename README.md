@@ -15,8 +15,9 @@ Anything, email me or connect with me on Linkedin:
 
 <div align="center">
   <a href="https://github.com/YohanBZ">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=YohanBZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanBZ&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YohanBZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanBZ&layout=compact&langs_count=7&theme=radical"/>
+   <img heigth="200" width="150" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
 </div>
  
   
