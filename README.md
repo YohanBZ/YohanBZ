@@ -19,9 +19,7 @@ Anything, email me or connect with me on Linkedin:
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanBZ&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
-  ##
- 
- 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,8 +27,10 @@ Anything, email me or connect with me on Linkedin:
   <img align="center" alt="Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="nodeJs" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
-
-  
+ <img align="end" heigth="200" width="150" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
+ 
+  ##
+ 
   ![Snake animation](https://github.com/YohanBZ/YohanBZ/blob/output/github-contribution-grid-snake.svg)
     
    
