@@ -1,9 +1,9 @@
  ### Hi, I’m @YohanBZ welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png"> 
- I'm 24 years old and I study software analysis and development. I love arts, music, games and movies.
+ >I'm 24 years old and I study software analysis and development. I love arts, music, games and movies.
 
-I always seek to be in constant evolution with myself, studying and learning new things.
+ >I always seek to be in constant evolution with myself, studying and learning new things.
 
-Anything, email me or connect with me on Linkedin:
+ >Anything, email me or connect with me on Linkedin:
   <div> 
   <a href="https://www.instagram.com/ybz_97/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/YohanB_97#4222" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
