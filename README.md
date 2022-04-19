@@ -15,11 +15,13 @@
  
  ##
 
-<div>
+<div align="center">
   <a href="https://github.com/YohanBZ">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=YohanBZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanBZ&layout=compact&langs_count=7&theme=radical"/>
 </div>
+ 
+ ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -28,8 +30,6 @@
   <img align="center" alt="Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="nodeJs" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
- 
-  ##
  
   ![Snake animation](https://github.com/YohanBZ/YohanBZ/blob/output/github-contribution-grid-snake.svg)
     
