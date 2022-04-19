@@ -1,17 +1,26 @@
  <img align="right" heigth="200" width="150" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
  
- ### Hi, I’m @YohanBZ welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png">  
- >I'm 24 years old and I study software analysis and development. I love arts, music, games and movies.
+ ### Hi, Welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png">  
+ 💻I'm 24 years old and I study software analysis and development. I love arts, music, games and movies.
  
- >I always seek to be in constant evolution with myself, studying and learning new things.
+ 🚀I always seek to be in constant evolution with myself, studying and learning new things.
  
  >Anything, email me or connect with me on Linkedin:
+ 
   <div> 
   <a href="https://www.instagram.com/ybz_97/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/YohanB_97#4222" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/YohanB_97#4222" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:yoohbaz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yohan-barboza-8b1609150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+ 
+ <div style="display: inline_block">
+  <img align="center" alt="js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="nodeJs" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+</div>
  
  ##
 
@@ -22,19 +31,15 @@
 </div>
  
  ##
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="nodeJs" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-</div>
+ 
+ Thanks for visiting. 
+  Enjoy it!!
+ <img  height="35" width="35" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/304/man-raising-hand_1f64b-200d-2642-fe0f.png">
+ 
+   
  
   ![Snake animation](https://github.com/YohanBZ/YohanBZ/blob/output/github-contribution-grid-snake.svg)
     
-   
-   
     
 <!---
 YohanBZ/YohanBZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
