@@ -1,5 +1,5 @@
  ### Hi, I’m @YohanBZ welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png">  
- >I'm 24 years old and I study software analysis and development. I love arts, music, games and movies.
+ I'm 24 years old and I study software analysis and development. I love arts, music, games and movies.
  
  >I always seek to be in constant evolution with myself, studying and learning new things.
  
