@@ -32,11 +32,7 @@
  
  ##
  
- Thanks for visiting. 
- Enjoy it!!
- <img  height="35" width="35" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/304/man-raising-hand_1f64b-200d-2642-fe0f.png">
- 
-   
+ Thanks for visiting. Enjoy it!!
  
   ![Snake animation](https://github.com/YohanBZ/YohanBZ/blob/output/github-contribution-grid-snake.svg)
     
