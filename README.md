@@ -2,12 +2,10 @@
  
  ### Hi, Welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png">  
  💻 I'm Yohan and I study software analysis and development. I love arts, music, games and movies.
- 
  🚀 I always seek to be in constant evolution with myself, studying and learning new things.
- 
  >Anything, email me or connect with me on Linkedin:
  
-  <div> 
+ <div> 
   <a href="https://www.instagram.com/ybz_97/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/YohanB_97#4222" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:yoohbaz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -33,7 +31,7 @@
  ##
  
  Thanks for visiting. 
-  Enjoy it!!
+ Enjoy it!!
  <img  height="35" width="35" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/304/man-raising-hand_1f64b-200d-2642-fe0f.png">
  
    
