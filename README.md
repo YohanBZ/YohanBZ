@@ -2,10 +2,10 @@
  
   <h2>Hi, Welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png"></h2> 
 
- 💻 I'm Yohan and I study software analysis and development. I love arts, music, games and movies.
- 
- 🚀 I always seek to be in constant evolution with myself, studying and learning new things.
- >Anything, email me or connect with me on Linkedin:
+ >💻 I'm Yohan and I study software analysis and development. I love arts, music, games and movies.
+  I always seek to be in constant evolution with myself, studying and learning new things.🚀
+  ##
+ >📫 Anything, email me or connect with me on Linkedin:
  
  <div> 
   <a href="https://www.instagram.com/ybz_97/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
