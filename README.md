@@ -26,7 +26,6 @@
   <img align="center" alt="nodeJs" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
  
- ##
 
 <div>
   <a href="https://github.com/YohanBZ">
