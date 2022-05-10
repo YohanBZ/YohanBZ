@@ -1,4 +1,4 @@
- <img align="right" heigth="200" width="150" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
+
  
   <h2>Hi, Welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png"></h2> 
 
@@ -6,6 +6,7 @@
   I always seek to be in constant evolution with myself, studying and learning new things.🚀
   ##
  >📫 Anything, email me or connect with me on Linkedin:
+ > <img align="right" heigth="200" width="150" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
  
  <div> 
    <a href="https://www.instagram.com/ybz_97/" target="_blank">
