@@ -3,10 +3,9 @@
   <h2>Hi, Welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png"></h2> 
 
  >💻 I'm Yohan and I study software analysis and development.I love arts, music, games and movies.
-  I always seek to be in constant evolution with myself, studying and learning new things.🚀
+  I always seek to be in constant evolution with myself, studying and learning new things.🚀 
   ##
  >📫 Anything, email me or connect with me on Linkedin:
-  <img align="right" heigth="200" width="150" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
  
  <div> 
    <a href="https://www.instagram.com/ybz_97/" target="_blank">
@@ -18,6 +17,8 @@
    <a href="https://www.linkedin.com/in/yohan-barboza-8b1609150/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+ <img align="right" heigth="150" width="100" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
+ 
  
  <div style="display: inline_block">
   <img align="center" alt="js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
