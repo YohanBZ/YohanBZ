@@ -6,7 +6,7 @@
   I always seek to be in constant evolution with myself, studying and learning new things.🚀
   ##
  >📫 Anything, email me or connect with me on Linkedin:
- > <img align="right" heigth="200" width="150" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
+  <img align="right" heigth="200" width="150" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
  
  <div> 
    <a href="https://www.instagram.com/ybz_97/" target="_blank">
