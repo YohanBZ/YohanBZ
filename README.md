@@ -17,7 +17,7 @@
    <a href="https://www.linkedin.com/in/yohan-barboza-8b1609150/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
- <img heigth="150" width="100" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
+ <img heigth="160" width="100" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
  
  
  <div style="display: inline_block">
