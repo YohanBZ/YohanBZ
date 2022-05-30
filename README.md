@@ -28,12 +28,6 @@
   <img align="center" alt="nodeJs" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
  
-
-<div>
-  <a href="https://github.com/YohanBZ">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=YohanBZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanBZ&layout=compact&langs_count=7&theme=radical"/>
-</div>
  
  ##
   
