@@ -1,11 +1,10 @@
 
  
-  <h2>Hi, Welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png"></h2> 
+  <h1 align="center">Hi, Welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png"></h1> 
 
- >💻 I'm Yohan and I study software analysis and development.I love arts, music, games and movies.
-  I always seek to be in constant evolution with myself, studying and learning new things.🚀 
-  ##
- >📫 Anything, email me or connect with me on Linkedin:
+ <p> 💻 I'm Yohan and I study software analysis and development.I love arts, music, games and movies.
+  I always seek to be in constant evolution with myself, studying and learning new things.🚀 </p>
+ <p>📫 Anything, email me or connect with me on Linkedin:</p>
  
  <div> 
    <a href="https://www.instagram.com/ybz_97/" target="_blank">
@@ -17,7 +16,7 @@
    <a href="https://www.linkedin.com/in/yohan-barboza-8b1609150/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
- <img align="right" heigth="160" width="100" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
+ <img align="right" heigth="300" width="180" src="https://c.tenor.com/PUdfnHnBGK4AAAAd/art-room.gif">
  
  
  <div style="display: inline_block">
@@ -30,11 +29,12 @@
  
  <div>
   <a href="https://github.com/YohanBZ">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=YohanBZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanBZ&layout=compact&langs_count=7&theme=radical"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=YohanBZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanBZ&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
  ##
+  🚧Project under construction🚧
   
  Thanks !!!
  
