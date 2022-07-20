@@ -1,6 +1,6 @@
 
  
- <h1 align="center">Hi, Welcome to my perfil <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png"></h1> 
+ <h1 align="center">Hi, Welcome to my profile <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png"></h1> 
 
  <p> 💻 Hi i'm Yohan currently studying software analysis and development. I always try to be in constant evolution with myself, I am very curious studying and learning new things whenever I can. I love arts, music, games and movies..🚀  </p>
   
