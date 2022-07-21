@@ -2,7 +2,7 @@
  
  <h1 align="center">Hi, Welcome to my profile <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png"></h1> 
 
- <p> 💻 Hi i'm Yohan currently studying software analysis and development. I always try to be in constant evolution with myself, I am very curious studying and learning new things whenever I can. I love arts, music, games and movies..🚀  </p>
+ <p> 💻 I'm Yohan currently studying software analysis and development. I always try to be in constant evolution with myself, I am very curious studying and learning new things whenever I can. I love arts, music, games and movies..🚀  </p>
   
  <img align="right" src="https://user-images.githubusercontent.com/98111590/179828361-fc649bf3-1b69-4e60-b3d9-a3bca695f29a.gif">
   
