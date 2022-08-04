@@ -15,7 +15,7 @@
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
  </div>
  
-<h3 align="right">🚧Profile under construction🚧</h3>
+<h3 align="right">🚧Profile under construction...🚧</h3>
   
  ##
  
