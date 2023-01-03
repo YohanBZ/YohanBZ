@@ -1,6 +1,6 @@
 
  
- <h1 align="center">Hello World! <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png"></h1> 
+ <h1 align="center">Hello World! <img height="55" width="55" src="https://cdn-icons-png.flaticon.com/512/2026/2026506.png"></h1> 
 
  <h3>Welcome to my profile 👋</h3>
  <p> I'm Yohan currently studying software analysis and development.<br> I always try to be in constant evolution with myself, <br> I am very curious studying and learning new things whenever I can.</p>
