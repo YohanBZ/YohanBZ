@@ -4,7 +4,7 @@
 
  <h3>Welcome to my profile 👋</h3>
  <p> I'm Yohan currently studying software analysis and development. I always try to be in constant evolution with myself, I am very curious studying and learning new things whenever I can.</p>
-<p> I love astrophysics, arts, music, games and movies..🚀 💻 </p>
+<p> I love astrophysics, arts, music, games and movies..🚀 👨‍💻</p>
   
  <img align="right" src="https://user-images.githubusercontent.com/98111590/179828361-fc649bf3-1b69-4e60-b3d9-a3bca695f29a.gif">
   
