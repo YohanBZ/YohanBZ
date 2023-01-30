@@ -29,6 +29,9 @@
    <a href="https://discord.gg/YohanB_97#4222" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  </div>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohanBZ&layout=compact&theme=algolia)](https://github.com/igorbrands)<img align="right" height="200" style="border:1px solid black; border-radius:5px" src="./coderoom.gif"/></br>
+![Igorbrands Gh Stats](https://github-readme-stats.vercel.app/api?username=YohanBZ&show_icons=true&hide_border=true&theme=algolia&count_private=true)
 
 
 
