@@ -19,7 +19,6 @@
      
  </div>
  
-<h3 align="right">🚧Profile under construction....🚧</h3>
   
  ##
  
